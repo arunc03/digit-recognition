@@ -1,4 +1,4 @@
-# digit-recognition
+# Digit Recognition
 A Python project creating a numerical recognition tool.
 
 
