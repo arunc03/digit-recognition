@@ -28,7 +28,7 @@ import os.path
 #process data
 #data
 def process_data():
-    data = np.genfromtxt('data/train_data.csv', delimiter=',')
+    data = np.genfromtxt('data/train_data.csv', delimiter=',') #uses MNIST database, link:http://yann.lecun.com/exdb/mnist/
     
     n = len(data)
     x1 = []
