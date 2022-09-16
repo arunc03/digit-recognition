@@ -9,3 +9,5 @@ This project consists of:
 - Main.py (the actual functional files)
 - data.zip (this needs to be decompressed for use).
 
+#Resources:
+- MNIST database: http://yann.lecun.com/exdb/mnist/ (LICENSED USING MIT)
